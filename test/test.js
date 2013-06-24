@@ -6,6 +6,6 @@ describe("test 2 + 1", function() {
 	});
 
 	it("should 2 * 3 is 6", function () {
-		assert.equal(2 * 3, 7);
+		assert.equal(2 * 3, 6);
 	});
 });
