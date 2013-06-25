@@ -10,6 +10,6 @@ describe("test 2 + 1", function() {
 	});
 
 	it("should 3 * 5 is 15", function () {
-		assert.equal(3 * 5, 15);
+		assert.equal(3 * 5, 12);
 	});
 });
